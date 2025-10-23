@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/POO-Conceitos_Sólidos-green?style=for-the-badge&logo=appveyor" alt="POO Conceitos">
-  <img src="https://img.shields.io/badge/JSON_e_CSV-Persistência-orange?style=for-the-badge&logo=json" alt="JSON e CSV">
+  <img src="https://img.shields.io/badge/Python-3.10+-FFC0CB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/POO-Conceitos_Sólidos-F48FB1?style=for-the-badge&logo=appveyor&logoColor=white" alt="POO Conceitos">
+  <img src="https://img.shields.io/badge/JSON_e_CSV-Persistência-E91E63?style=for-the-badge&logo=json&logoColor=white" alt="JSON e CSV">
 </div>
 
 # Mini CRM de Leads — Versão POO 🐍

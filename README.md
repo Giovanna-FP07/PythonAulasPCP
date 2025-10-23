@@ -48,17 +48,18 @@ aula10-mini-crm-leads/
 
 ## Conceitos de POO Aplicados
 
-O projeto é um excelente exemplo prático dos pilares da Programação Orientada a Objetos em Python.
+O projeto é um excelente exemplo prático dos pilares da Programação Orientada a Objetos em Python, utilizando classes com responsabilidades bem definidas.
 
-<div style="background-color:#e8f5e9; padding:15px; border-left:5px solid #4caf50; border-radius:5px; margin-bottom: 20px;">
-**Classes Principais:**
-- <code>Lead</code> → Modelo base para um lead padrão.
-- <code>VIPLead</code> → Herda de <code>Lead</code> e demonstra **Polimorfismo** ao redefinir a representação (`__str__`).
-- <code>LeadRepository</code> → Implementa o padrão **Repositório** para isolar a lógica de persistência (JSON/CSV).
-- <code>MiniCRMApp</code> → Classe principal que orquestra a execução, demonstrando **Encapsulamento** da lógica de negócio.
-
-**Princípios:** **Encapsulamento**, **Herança**, **Polimorfismo**.
+<div style="background-color:#e8f5e9; padding:10px; border-left:5px solid #4caf50; border-radius:5px; margin-bottom: 20px;">
+Princípios e Classes
 </div>
+
+| Conceito / Classe | Princípio POO | Detalhe da Implementação |
+| :--- | :--- | :--- |
+| **`Lead`** | Encapsulamento | Classe base para leads, protege dados internos. |
+| **`VIPLead`** | Herança & Polimorfismo | Herda de `Lead` e redefine o método `__str__` para um formato VIP. |
+| **`LeadRepository`** | Encapsulamento | Isolamento da lógica de persistência (JSON/CSV). |
+| **`MiniCRMApp`** | Encapsulamento | Gerencia o fluxo do programa e esconde a complexidade de UI/Regras. |
 
 ## Exemplo de Uso (CLI)
 

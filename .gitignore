@@ -1,0 +1,10 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais (caso crie)
+venv/
+env/
+
+# Ignorar arquivos temporários do macOS
+.DS_Store

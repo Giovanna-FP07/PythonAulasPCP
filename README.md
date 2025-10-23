@@ -74,7 +74,7 @@ Mini CRM — Versão POO
 [4] Exportar CSV
 [0] Sair
 Escolha: 1
-Nome: Giovana
+Nome: Giovanna
 Empresa: FIAP
 E-mail: gi@exemplo.com
 Lead VIP? (s/n): s
@@ -89,7 +89,7 @@ O arquivo `leads.csv` é gerado com os dados formatados, pronto para importaçã
 <div style="background-color:#fbe9e7; padding:10px; border-left:5px solid #ff5722; border-radius:5px; margin-bottom: 20px;">
 <pre>
 name,company,email,stage,created
-Giovana,FIAP,gi@exemplo.com,vip,2025-10-23
+Giovanna,FIAP,gi@exemplo.com,vip,2025-10-23
 Alexandre,FIAP,a@b.com,novo,2025-09-28
 </pre>
 </div>
